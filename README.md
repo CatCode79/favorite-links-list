@@ -17,6 +17,10 @@
 - https://uops.info/table.html
   - A comprehensive micro-architecture database providing exact instruction latency, throughput, and port usage for modern CPU performance tuning.
 
+## RustLang
+- https://doc.rust-lang.org/reference/const_eval.html#constant-expressions
+  - Shared borrows of interior mutable data and mutable borrows are only allowed in a const context when the borrowed place expression is transient, indirect, or static.
+
 ## Shader
 - [fragcoord.xyz](https://fragcoord.xyz/)
   - An online shader tool and repository for procedural image generation and fragment shader experimentation.
