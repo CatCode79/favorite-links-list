@@ -1,30 +1,38 @@
-# List of favorite and useful link
+# PROGRAMMING:
+- x86-64-v2
+  - [X86-64#Microarchitecture_levels](https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels)
+- A regex tester (also useful for [Redirector Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/redirector/))
+  - [regexr](https://regexr.com/)
+- A comprehensive micro-architecture database providing exact instruction latency, throughput, and port usage for modern CPU performance tuning.
+  - https://uops.info/table.html
 
-## Graphic Api
-- https://vulkan.gpuinfo.org/
-- https://d3d12infodb.boolka.dev/
-- https://web3dsurvey.com/webgpu
+## RustLang
+- Shared borrows of interior mutable data and mutable borrows are only allowed in a const context when the borrowed place expression is transient, indirect, or static.
+  - https://doc.rust-lang.org/reference/const_eval.html#constant-expressions
 
-## Graphic Programming
+&nbsp;
+
+# GRAPHIC PROGRAMMING:
 - Differenzial Rendering
   - https://graphics.stanford.edu/papers/trd/trd.pdf
+
+## Advances in Real-Time Rendering in Games course
+- SIGGRAPH 2017
+  - https://advances.realtimerendering.com/s2017/index.html
+
+## Graphic Api
+- https://d3d12infodb.boolka.dev/
+- https://vulkan.gpuinfo.org/
+- https://web3dsurvey.com/webgpu
+
+## Shader
+- Shadertoy is a cross-browser online community and tool for creating and sharing WebGL2 shaders (GLSL)
+  - https://www.shadertoy.com/
+
+&nbsp;
+
+# OTHERS:
 
 ## HW
 - https://www.videocardbenchmark.net/high_end_gpus.html
 - https://www.notebookcheck.net/Mobile-Graphics-Cards-Benchmark-List.844.0.html
-
-## Programming
-- [X86-64#Microarchitecture_levels](https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels)
-  - x86-64-v2
-- [regexr](https://regexr.com/)
-  - A regex tester (also useful for [Redirector Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/redirector/))
-- https://uops.info/table.html
-  - A comprehensive micro-architecture database providing exact instruction latency, throughput, and port usage for modern CPU performance tuning.
-
-## RustLang
-- https://doc.rust-lang.org/reference/const_eval.html#constant-expressions
-  - Shared borrows of interior mutable data and mutable borrows are only allowed in a const context when the borrowed place expression is transient, indirect, or static.
-
-## Shader
-- [fragcoord.xyz](https://fragcoord.xyz/)
-  - An online shader tool and repository for procedural image generation and fragment shader experimentation.
