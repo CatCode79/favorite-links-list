@@ -1,13 +1,17 @@
 # List of favorite and useful link
 
-## Gpu
-- https://www.videocardbenchmark.net/high_end_gpus.html
-- https://www.notebookcheck.net/Mobile-Graphics-Cards-Benchmark-List.844.0.html
-
 ## Graphic Api
 - https://vulkan.gpuinfo.org/
 - https://d3d12infodb.boolka.dev/
 - https://web3dsurvey.com/webgpu
+
+## Graphic Programming
+- Differenzial Rendering
+  - https://graphics.stanford.edu/papers/trd/trd.pdf
+
+## HW
+- https://www.videocardbenchmark.net/high_end_gpus.html
+- https://www.notebookcheck.net/Mobile-Graphics-Cards-Benchmark-List.844.0.html
 
 ## Programming
 - [X86-64#Microarchitecture_levels](https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels)
