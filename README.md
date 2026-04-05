@@ -26,11 +26,12 @@
 - https://web3dsurvey.com/webgpu
 
 ## Shader
-- A streamlined WebGPU-based sandbox for prototyping and sharing high-performance WGSL compute shaders with real-time feedback.
-  - https://compute.toys/
 - Shadertoy is a cross-browser online community and tool for creating and sharing WebGL2 shaders (GLSL)
   - https://www.shadertoy.com/
-
+- A streamlined WebGPU-based sandbox for prototyping and sharing high-performance WGSL compute shaders with real-time feedback.
+  - https://compute.toys/
+- A real-time GLSL fragment shader editor. Write code, see the result instantly. No setup required.
+  - https://fragcoord.xyz/
 &nbsp;
 
 # OTHERS:
