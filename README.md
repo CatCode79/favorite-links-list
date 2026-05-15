@@ -34,6 +34,10 @@
   - https://fragcoord.xyz/
 &nbsp;
 
+## Other
+- https://downdetector.com/
+  
+
 # OTHERS:
 
 ## HW
