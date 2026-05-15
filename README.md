@@ -34,12 +34,11 @@
   - https://fragcoord.xyz/
 &nbsp;
 
-## Other
-- https://downdetector.com/
-  
-
 # OTHERS:
 
 ## HW
 - https://www.videocardbenchmark.net/high_end_gpus.html
 - https://www.notebookcheck.net/Mobile-Graphics-Cards-Benchmark-List.844.0.html
+
+## Useful
+- https://downdetector.com/
